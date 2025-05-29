@@ -1,2 +1,1 @@
-Flask==2.3.2
-Flask-Cors==4.0.0 # Adicione esta linha
+requests==2.31.0 # Pode ser uma versão mais recente se preferir, mas esta é estável
